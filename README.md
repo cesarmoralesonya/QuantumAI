@@ -8,4 +8,9 @@
 
 [ChatGPT - 1-AGI Research and AlphaFold](https://chatgpt.com/share/67f8dd99-8ca4-8001-8c70-ce6ec5a885e9)
 
+# RESEARCH TEAM
+
+[NICOLAS CORREDOR](https://github.com/cogu92/)
+[CESAR MORALES](https://github.com/cesarmoralesonya)
+
 # OPEN TO CONTRIBUTORS !!
