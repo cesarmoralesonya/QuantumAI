@@ -11,6 +11,7 @@
 # RESEARCH TEAM
 
 [NICOLAS CORREDOR](https://github.com/cogu92/)
+
 [CESAR MORALES](https://github.com/cesarmoralesonya)
 
 # OPEN TO CONTRIBUTORS !!
